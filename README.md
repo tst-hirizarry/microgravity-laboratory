@@ -1,2 +1,2 @@
-# microgravity-laboratory
-Initial working folder for microgravity work for Collins and PRSF
+# Microgravity Laboratory For High School Students
+This repository contains the specifications, design and experiments for the micro-gravity laboratory.
