@@ -5,6 +5,7 @@ This repository contains the specifications, design and experiments for the micr
 This project is initiative of the [Puerto Rico Space Foundation] (https://www.prspacefoundation.org/) with contributions from:
 *[Collins Aerospace] (https://www.collinsaerospace.com/)
 ## Background
+The PR Space Foundation
 
 ## Feedback
 
